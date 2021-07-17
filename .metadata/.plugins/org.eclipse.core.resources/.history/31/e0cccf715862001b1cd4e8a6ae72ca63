@@ -1,0 +1,21 @@
+import java.util.ArrayList;
+import java.util.Scanner;
+
+public class Test1{
+	
+	public static void main(String[] args) {
+		
+		Scanner input = new Scanner(System.in);
+		
+		ArrayList<Integer> al = new ArrayList<>();
+		while(input.hasNextInt()) {
+			al.add(input.nextInt());
+			
+		}
+		System.out.println(input);
+		
+	}
+	
+	
+	
+}

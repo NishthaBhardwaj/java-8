@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;com.nishthasoft.data&apos; to &apos;Streams_examples/src&apos;&#x0D;&#x0A;- Original project: &apos;FunctionalInterfaces&apos;&#x0D;&#x0A;- Destination element: &apos;Streams_examples/src&apos;&#x0D;&#x0A;- Original element: &apos;FunctionalInterfaces/src/com.nishthasoft.data&apos;" description="Copy package" destination="=Streams_examples/src" element1="/src&lt;com.nishthasoft.data" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1607941128892" version="1.0"/>
+</session>
